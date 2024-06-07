@@ -1,0 +1,1 @@
+This project is not working and has been suspended due to issues created by packages being deprecated (create-react-app) that are used in the tutorial. I may come back to fix these but do not try to use these files as they are not working fully. I learned what I needed to for me to continue on my journey learning Go and that's all I wanted from this project anyway.
